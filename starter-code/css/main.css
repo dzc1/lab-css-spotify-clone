@@ -6,3 +6,78 @@ Green: #00B172
 White: #FFF
 
 */
+body {
+  background-color: #ffff;
+  font-family: 'Roboto', sans-serif;
+}
+
+.spotifylogo {
+  width: 167px;
+  height: 50px;
+}
+
+.spotifylogo2 {
+  width: 259px;
+  height: 460px;
+}
+
+.menu {
+  font-size: 24px;
+  color: #000;
+  background: ffffff;
+  text-align: right;
+}
+
+.Mainpic {
+  width: 100%;
+}
+
+.M4E {
+  font-size: 64px;
+  text-align: center;
+}
+
+.menu2 {
+  font-size: 30px;
+  color: #ffff;
+  text-align: left;
+}
+
+.menu3 {
+  font-size: 24px;
+  color: #ffff;
+  text-align: left;
+}
+
+.menu4 {
+  font-size: 18px;
+  color: #ffff;
+  text-align: left;
+}
+
+.menu5 {
+  font-size: 24px;
+  color: #000;
+  text-align: center;
+}
+
+.greentext {
+  color: #0bbc7e;
+}
+
+.icons {
+  width: 100px;
+  height: 86px;
+}
+
+.icons2 {
+  width: 100px;
+  height: 100px;
+}
+
+section {
+  padding: 10px 10px 10px 10px;
+  width: auto;
+  height: auto;
+  background-color: #1ab26b;
+}
